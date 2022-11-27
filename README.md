@@ -21,7 +21,7 @@ Galaco Talk, now avaliable on VOICEROID2.
 This patch is not public available here. You may find it at somewhere else.
 
 ### Otomachi Una EX (音街ウナ)
-Otomachi Una EX, now avaliable on VOICEROID2. (It's not the VOICEROID2 Otomachi Una.)
+Otomachi Una Talk Ex, now avaliable on VOICEROID2. (It's not the VOICEROID2 Otomachi Una.)
 
 This patch is not public available here. You may find it at somewhere else.
 
